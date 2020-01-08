@@ -2,3 +2,5 @@
 
 # Python-GUI-PyQt5
 Using PyQt5 to create GUI in Python
+
+[Tutorial Basics](https://www.guru99.com/pyqt-tutorial.html)
